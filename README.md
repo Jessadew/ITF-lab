@@ -1,3 +1,1 @@
-"# ITF2024" 
-
-Hello iJudge 67070024
+"#ITF2024" 
